@@ -1,4 +1,4 @@
-const Page1 = () => {
+const PostTable = () => {
     return (
       <div>
         <h2>Page 1</h2>
@@ -7,5 +7,5 @@ const Page1 = () => {
     );
   };
   
-  export default Page1;
+  export default PostTable;
   
